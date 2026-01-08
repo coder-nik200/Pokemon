@@ -16,7 +16,7 @@ A modern Pokémon web application built with React that allows users to explore 
 
 ## 🚀 Live Demo
 
-🔗 https://pokemon-your-link-here.netlify.app
+🔗 https://pokemon-nik.vercel.app/
 
 (Update with your deployed link)
 
@@ -45,3 +45,4 @@ https://pokeapi.co/api/v2/pokemon
 ## Connect with me
 
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/nitish-kumar-631a37359/" target="_blank">Nitish Kumar Bharti</a> Email: codesnippet17@gmail.com</p>
+
