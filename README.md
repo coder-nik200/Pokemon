@@ -18,8 +18,6 @@ A modern Pokémon web application built with React that allows users to explore 
 
 🔗 https://pokemon-nik.vercel.app/
 
-(Update with your deployed link)
-
 📡 API Used
 
 PokéAPI Endpoint:
@@ -45,5 +43,6 @@ https://pokeapi.co/api/v2/pokemon
 ## Connect with me
 
 <p align="center">🔗 LinkedIn: <a href="https://www.linkedin.com/in/nitish-kumar-bharti-631a37359/" target="_blank">Nitish Kumar Bharti</a> Email: codesnippet17@gmail.com</p>
+
 
 
